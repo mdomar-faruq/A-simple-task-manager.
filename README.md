@@ -1,6 +1,6 @@
 
 
-                                                          ### A simple task manager
+                                                  ### A simple task manager
                                      
  A simple task manager app is used for maintaining daily tasks. Each task entry usually consists of a few standard fields (for example: title, due date, duration, type).
  Oder by Due Date(can pick ASC and DESC). This project uses laravel 9 framework.
@@ -10,7 +10,7 @@
  
  
                                                                     
-                                                                ## How can open a project?
+                                                 ## How can open a project?
    
 step 1->
 First of Download project form GitHub.
