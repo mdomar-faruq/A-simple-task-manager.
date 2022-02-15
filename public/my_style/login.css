@@ -1,0 +1,23 @@
+/* login and register */
+.login {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin: -150px 0 0 -150px;
+    width: 350px;
+    height: 350px;
+}
+.login h1 {
+    margin-left: 100px;
+    margin-bottom: 15px;
+    color: #432874;
+}
+.login form a {
+    margin-left: -20px;
+    text-decoration: none;
+    color: #432874;
+}
+
+.login form label {
+    color: #432874;
+}

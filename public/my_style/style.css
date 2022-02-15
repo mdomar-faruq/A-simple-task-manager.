@@ -1,0 +1,16 @@
+body {
+    background-color: #a98eda;
+    color: white;
+}
+
+.customstyle {
+    position: relative;
+    width: 400px;
+    margin: 150px auto;
+}
+
+.customstyle .buttonset {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 80px;
+}
